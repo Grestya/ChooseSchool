@@ -1,0 +1,8 @@
+pandas
+numpy
+yandex-geocoder
+geopy
+scikit-learn
+ipyleaflet
+ipywidgets
+folium
